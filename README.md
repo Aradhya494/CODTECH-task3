@@ -13,7 +13,7 @@
 ## Overview of the Project
 
 ### Project: Compile Design Basic
-![Image](https://github.com/user-attachments/assets/6478a2fc-707d-4416-b17d-fbcb05bed762)
+![Image](https://github.com/user-attachments/assets/aff0df5a-bd8d-462e-a350-3ee96eea69ef)
 
 ### Objective
  The objective of this task is to create a basic program that can read code from a file and pick out important parts like:
