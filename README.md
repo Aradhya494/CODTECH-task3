@@ -2,7 +2,7 @@
 
 **Company:** CODETECH IT SOLUTIONS.
 
-**ID:** CT04DF69.
+**INTERN ID:** CT04DF69.
 
 **Domain:** C Programming.
 
@@ -13,6 +13,8 @@
 ## Overview of the Project
 
 ### Project: Compile Design Basic
+
+### Output
 ![Image](https://github.com/user-attachments/assets/aff0df5a-bd8d-462e-a350-3ee96eea69ef)
 
 ### Objective
