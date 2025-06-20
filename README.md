@@ -12,7 +12,7 @@
 
 ## Overview of the Project
 
-### Project: Compile Design Bsics
+### Project: Compile Design Basic
 ![Image](https://github.com/user-attachments/assets/6478a2fc-707d-4416-b17d-fbcb05bed762)
 
 ### Objective
