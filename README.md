@@ -13,6 +13,7 @@
 ## Overview of the Project
 
 ### Project: Compile Design Bsics
+![Image](https://github.com/user-attachments/assets/6478a2fc-707d-4416-b17d-fbcb05bed762)
 
 ### Objective
  The objective of this task is to create a basic program that can read code from a file and pick out important parts like:
